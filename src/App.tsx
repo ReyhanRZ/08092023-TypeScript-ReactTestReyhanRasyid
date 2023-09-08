@@ -1,12 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ViewList from './Components/ViewList';
 
 function App() {
   return (
     <div className='App'>
-      <h1>HELLO</h1>
+      <h1 className="text-9xl font-black text-white text-center">HELLO</h1>
       <ViewList />
     </div>
   );
