@@ -1,0 +1,15 @@
+.list-app {
+    display: flex;
+    justify-content: center;
+}
+
+.list-item {
+    width: 500px;
+    padding: 20px;
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+
+.list-img {
+    width: 400px;
+}
